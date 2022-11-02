@@ -1,0 +1,29 @@
+data link:
+
+https://www.kaggle.com/datasets/thedevastator/shark-attacks-the-risks-of-coastal-water-activit
+
+
+About this file
+The file GSAF5.xls.csv is a dataset containing information on shark attacks from around the world
+
+Case Number: The unique identifier for the shark attack case. (String)
+Date: The date of the shark attack. (Date)
+Year: The year of the shark attack. (Integer)
+Type: The type of shark attack, such as unprovoked, provoked, sea disaster, or boat. (String)
+Country: The country in which the shark attack took place. (String)
+Area: The area in which the shark attack took place. (String)
+Location: The specific location of the shark attack. (String)
+Activity: The activity the victim was engaged in when the attack took place. (String)
+Name: The name of the victim. (String)
+Age: The age of the victim. (Integer)
+Injury: The injury sustained by the victim. (String)
+Fatal (Y/N): Whether or not the victim died from the attack. (String)
+Time: The time of day the attack took place. (String)
+Species : The species of shark responsible for the attack. (String)
+Investigator or Source: The source of the information for the case. (String)
+pdf: A link to a PDF with more information about the case. (String)
+href formula: The formula used to generate the href link. (String)
+href formula: The formula used to generate the href link. (String)
+Case Number.1: A duplicate of the Case Number column. (String)
+Case Number.2: A duplicate of the Case Number column. (String)
+original order: The order in which the cases are listed in the dataset. (Integer)
